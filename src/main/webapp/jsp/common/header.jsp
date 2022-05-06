@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    SG家常菜
+                    SG孙刚家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
